@@ -5,4 +5,4 @@ flask-wtf==1.1.1
 flask-bcrypt==1.0.1
 email-validator==2.0.0.post2
 python-dotenv==1.0.0
-werkzeug
+werkzeug==2.3.3
